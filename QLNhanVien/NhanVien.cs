@@ -17,7 +17,7 @@ namespace QLNhanVien
         {
             InitializeComponent();
         }
-
+        //duy
         private void NhanVien_Load(object sender, EventArgs e)
         {
             hienNhanVien();
